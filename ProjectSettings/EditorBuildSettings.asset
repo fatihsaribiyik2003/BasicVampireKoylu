@@ -9,6 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/BeginScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/SampleScene 1.unity
+    path: Assets/Scenes/Firstchoose.unity
     guid: 47083ecc6cc22eb45becce10cd5248d7
+  - enabled: 1
+    path: Assets/Scenes/Koyluler.unity
+    guid: 8849da106ae1e1541baf461388cc7fe9
+  - enabled: 1
+    path: "Assets/Scenes/Tarafs\u0131zlar.unity"
+    guid: 8baae3e56fe9026449792917abc46450
+  - enabled: 1
+    path: Assets/Scenes/Vampirler.unity
+    guid: 4aa003bc3b20057478972d10ac559119
   m_configObjects: {}
