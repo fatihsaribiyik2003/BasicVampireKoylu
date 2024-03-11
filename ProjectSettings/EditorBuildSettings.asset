@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Vampirler.unity
     guid: 4aa003bc3b20057478972d10ac559119
+  - enabled: 1
+    path: Assets/Scenes/Yonetim.unity
+    guid: 0442a11e71debc94f87421d52b99b418
   m_configObjects: {}

@@ -11,6 +11,11 @@ public class BeginMenü : MonoBehaviour
         // "Gameplay" sahnesine geçiş yap
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex +1);
     }
+    public void ModaretorplayScene()
+    {
+        // "Gameplay" sahnesine geçiş yap
+        SceneManager.LoadScene("Yonetim");
+    }
     
     
 }

@@ -321,7 +321,7 @@ MonoBehaviour:
     m_HighlightedColor: {r: 0.9490196, g: 0.5555582, b: 0.49803922, a: 0.3019608}
     m_PressedColor: {r: 1, g: 0.71291965, b: 0.45882356, a: 0.54901963}
     m_SelectedColor: {r: 1, g: 0.6351902, b: 0.4431373, a: 0.54901963}
-    m_DisabledColor: {r: 1, g: 0.4165469, b: 0.39999998, a: 0.5019608}
+    m_DisabledColor: {r: 0.7584905, g: 0.2581524, b: 0.2447205, a: 0.5019608}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -342,7 +342,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1628163101}
         m_TargetAssemblyTypeName: "BeginMen\xFC, Assembly-CSharp"
-        m_MethodName: LoadGameplayScene
+        m_MethodName: ModaretorplayScene
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
