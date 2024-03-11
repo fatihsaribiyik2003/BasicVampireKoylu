@@ -9,12 +9,27 @@ public class BeginMenü : MonoBehaviour
     public void LoadGameplayScene()
     {
         // "Gameplay" sahnesine geçiş yap
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex +1);
+        SceneManager.LoadScene("Firstchoose");
     }
     public void ModaretorplayScene()
     {
         // "Gameplay" sahnesine geçiş yap
         SceneManager.LoadScene("Yonetim");
+    }
+    public void GeceModaretorplayScene()
+    {
+        // "Gameplay" sahnesine geçiş yap
+        SceneManager.LoadScene("GeceMode");
+    }
+    public void GunduzModaretorplayScene()
+    {
+        // "Gameplay" sahnesine geçiş yap
+        SceneManager.LoadScene("GunduzMode");
+    }
+    public void SonrakiYamaScene()
+    {
+        // "Gameplay" sahnesine geçiş yap
+        SceneManager.LoadScene("GelecekGuncellemeler");
     }
     
     

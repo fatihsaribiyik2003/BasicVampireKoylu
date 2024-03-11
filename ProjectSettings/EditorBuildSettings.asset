@@ -23,4 +23,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Yonetim.unity
     guid: 0442a11e71debc94f87421d52b99b418
+  - enabled: 1
+    path: Assets/Scenes/GunduzMode.unity
+    guid: 3ab010015910b0243bae6f8cc7d29456
+  - enabled: 1
+    path: Assets/Scenes/GeceMode.unity
+    guid: df4ce56e3ccd9ee43ab46708290257ac
+  - enabled: 1
+    path: Assets/Scenes/GelecekGuncellemeler.unity
+    guid: 2862dddf9ffc46c42a9a8015d267e26b
   m_configObjects: {}
